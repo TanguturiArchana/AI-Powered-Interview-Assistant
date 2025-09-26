@@ -113,4 +113,3 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
-AI-Powered-Interview-Assistant
